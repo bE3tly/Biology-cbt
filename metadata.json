@@ -1,6 +1,6 @@
 {
-  "name": "CHM 102 CBT Practice Exam",
-  "description": "An interactive, secure Computer-Based Test (CBT) practice exam with 40 highly tricky, shuffled questions randomly selected from a pool of 200 questions covering the entire CHM 102: General Chemistry II syllabus. Featuring organic nomenclature, fullerenes, electronic theories, purification methods, analytical techniques, reaction mechanisms, stereochemistry, chemical families, s-block, and transition metals. Includes a 15-minute timer, strict anti-cheating sensor, real-time score grading, and a comprehensive corrections mode with explanations.",
+  "name": "Vaulters Biology CBT",
+  "description": "Vaulters Biology CBT application for practicing biology tests.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
