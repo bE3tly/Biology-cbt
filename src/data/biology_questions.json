@@ -1,0 +1,362 @@
+[
+  {
+    "id": 11,
+    "topic": "Nutrition in animals",
+    "question": "Which nutrient is primarily digested in the human stomach?",
+    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "answerIndex": 1,
+    "explanation": "Stomach acid and pepsin begin the chemical digestion of proteins.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "topic": "Transport system",
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+    "answerIndex": 1,
+    "explanation": "The pulmonary vein is unique in carrying oxygenated blood to the heart.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 13,
+    "topic": "Endocrine system",
+    "question": "Which hormone is responsible for regulating blood sugar levels?",
+    "options": ["Adrenaline", "Insulin", "Thyroxine", "Estrogen"],
+    "answerIndex": 1,
+    "explanation": "Insulin is produced by the pancreas to lower blood glucose levels.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "topic": "Ecology",
+    "question": "What is the primary source of energy in most ecosystems?",
+    "options": ["Decomposers", "Sunlight", "Consumers", "Nutrients"],
+    "answerIndex": 1,
+    "explanation": "Sunlight provides the energy for photosynthesis in autotrophs.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "topic": "Genetics",
+    "question": "What are the components of a nucleotide?",
+    "options": ["Sugar, phosphate, base", "Sugar, base, protein", "Phosphate, protein, base", "Sugar, phosphate, lipid"],
+    "answerIndex": 0,
+    "explanation": "A nucleotide consists of a sugar, a phosphate group, and a nitrogenous base.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 16,
+    "topic": "Evolution",
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "options": ["Jean-Baptiste Lamarck", "Charles Darwin", "Gregor Mendel", "Louis Pasteur"],
+    "answerIndex": 1,
+    "explanation": "Charles Darwin is credited with the theory of natural selection.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "topic": "Microorganisms",
+    "question": "Which of the following is a viral disease?",
+    "options": ["Tuberculosis", "Influenza", "Malaria", "Ringworm"],
+    "answerIndex": 1,
+    "explanation": "Influenza is caused by a virus.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "topic": "Sense organs",
+    "question": "Which part of the eye is sensitive to light?",
+    "options": ["Lens", "Iris", "Retina", "Cornea"],
+    "answerIndex": 2,
+    "explanation": "The retina contains photoreceptor cells that detect light.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "topic": "Cell structure",
+    "question": "What is the function of the cell wall in plant cells?",
+    "options": ["Storage", "Energy production", "Support and protection", "Protein synthesis"],
+    "answerIndex": 2,
+    "explanation": "The cell wall provides rigid structural support and protection to plant cells.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "topic": "Ecology",
+    "question": "What is an ecological niche?",
+    "options": ["The habitat of a species", "The role of a species in its ecosystem", "The physical boundaries of a biome", "The total population of a species"],
+    "answerIndex": 1,
+    "explanation": "A niche includes all the roles and resources a species uses within its ecosystem.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 21,
+    "topic": "Reproduction in plants",
+    "question": "Which part of a flower develops into a fruit?",
+    "options": ["Anther", "Stigma", "Ovary", "Petal"],
+    "answerIndex": 2,
+    "explanation": "After fertilization, the ovary of a flower matures into a fruit.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 22,
+    "topic": "Variation",
+    "question": "Which is an example of continuous variation?",
+    "options": ["Blood group", "Height", "Tongue rolling", "Eye color"],
+    "answerIndex": 1,
+    "explanation": "Height varies along a spectrum, making it continuous variation.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 23,
+    "topic": "Respiration in plants",
+    "question": "What is produced during anaerobic respiration in plants?",
+    "options": ["Ethanol and carbon dioxide", "Lactic acid", "Glucose and oxygen", "Water and oxygen"],
+    "answerIndex": 0,
+    "explanation": "Plants ferment glucose into ethanol and carbon dioxide in the absence of oxygen.",
+    "difficulty": "Tactical"
+  },
+  {
+    "id": 24,
+    "topic": "Excretion in plants",
+    "question": "How do plants primarily excrete waste gases like oxygen?",
+    "options": ["Stomata", "Roots", "Leaves only", "Stem only"],
+    "answerIndex": 0,
+    "explanation": "Oxygen is primarily excreted through the stomata of the leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "topic": "Digestive system",
+    "question": "Where does the absorption of nutrients primarily occur?",
+    "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "answerIndex": 1,
+    "explanation": "The small intestine is the main site for nutrient absorption into the blood.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 26,
+    "topic": "Endocrine system",
+    "question": "Which gland is known as the 'master gland'?",
+    "options": ["Thyroid", "Pituitary", "Adrenal", "Pancreas"],
+    "answerIndex": 1,
+    "explanation": "The pituitary gland regulates the functions of many other endocrine glands.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "topic": "Ecology",
+    "question": "What is the main cause of global warming?",
+    "options": ["Deforestation", "Increased greenhouse gases", "Ozone depletion", "Eutrophication"],
+    "answerIndex": 1,
+    "explanation": "Increased concentrations of greenhouse gases trap heat in the atmosphere.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 28,
+    "topic": "Genetics",
+    "question": "What does a punnett square show?",
+    "options": ["The probability of offspring genotypes", "The entire genome of an organism", "The speed of DNA replication", "The rate of protein synthesis"],
+    "answerIndex": 0,
+    "explanation": "A Punnett square is a tool used to predict potential genotypes of offspring.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 29,
+    "topic": "Cell Biology",
+    "question": "Which organelle is known as the 'suicide bag' of the cell?",
+    "options": ["Lysosome", "Vacuole", "Ribosome", "Golgi apparatus"],
+    "answerIndex": 0,
+    "explanation": "Lysosomes contain digestive enzymes that can break down cellular components.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "topic": "Ecology",
+    "question": "Which of these is a biotic factor?",
+    "options": ["Temperature", "Soil pH", "Predation", "Water"],
+    "answerIndex": 2,
+    "explanation": "Biotic factors are living or once-living components, like predation.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 31,
+    "topic": "Transport system",
+    "question": "What is the primary function of red blood cells?",
+    "options": ["Fighting infection", "Clotting", "Transporting oxygen", "Producing hormones"],
+    "answerIndex": 2,
+    "explanation": "Red blood cells contain hemoglobin to transport oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "topic": "Nutrition in animals",
+    "question": "Which vitamin is synthesized by sunlight in the skin?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "answerIndex": 2,
+    "explanation": "Sunlight exposure triggers the synthesis of Vitamin D in the skin.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 33,
+    "topic": "Genetics",
+    "question": "What is a mutation?",
+    "options": ["A change in the DNA sequence", "A type of protein", "A form of RNA", "A cellular division process"],
+    "answerIndex": 0,
+    "explanation": "A mutation is a permanent change in the DNA sequence.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "topic": "Ecology",
+    "question": "What is eutrophication?",
+    "options": ["Excessive nutrients in water", "Deforestation", "Air pollution", "Climate change"],
+    "answerIndex": 0,
+    "explanation": "Eutrophication is the excessive enrichment of water with nutrients.",
+    "difficulty": "Tactical"
+  },
+  {
+    "id": 35,
+    "topic": "Cell Biology",
+    "question": "What is the result of mitosis?",
+    "options": ["Two genetically identical cells", "Four genetically different cells", "One cell with half the DNA", "One cell with double the DNA"],
+    "answerIndex": 0,
+    "explanation": "Mitosis produces two daughter cells identical to the parent cell.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 36,
+    "topic": "Ecology",
+    "question": "Which gas is a major contributor to acid rain?",
+    "options": ["Oxygen", "Sulfur dioxide", "Nitrogen", "Methane"],
+    "answerIndex": 1,
+    "explanation": "Sulfur dioxide reacts with atmospheric water to form acid rain.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 37,
+    "topic": "Nutrition in plants",
+    "question": "What is the product of the light-dependent reactions of photosynthesis?",
+    "options": ["ATP and NADPH", "Glucose", "Carbon dioxide", "Oxygen"],
+    "answerIndex": 0,
+    "explanation": "The light-dependent reactions convert light into chemical energy (ATP/NADPH).",
+    "difficulty": "Tactical"
+  },
+  {
+    "id": 38,
+    "topic": "Endocrine system",
+    "question": "What is the function of the adrenal glands?",
+    "options": ["Regulate metabolism", "Produce stress hormones", "Control sleep", "Regulate calcium"],
+    "answerIndex": 1,
+    "explanation": "Adrenal glands produce hormones like adrenaline during stress.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 39,
+    "topic": "Microorganisms",
+    "question": "Which of these is a fungal disease?",
+    "options": ["Malaria", "Ringworm", "Flu", "Cholera"],
+    "answerIndex": 1,
+    "explanation": "Ringworm is caused by a fungal infection.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "topic": "Ecology",
+    "question": "What is a food web?",
+    "options": ["A linear chain", "A complex network of interconnected food chains", "A type of plant", "A population study"],
+    "answerIndex": 1,
+    "explanation": "A food web shows all feeding relationships in an ecosystem.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "topic": "Genetics",
+    "question": "What does a homozygous genotype mean?",
+    "options": ["Two different alleles", "Two identical alleles", "No alleles", "A mutated allele"],
+    "answerIndex": 1,
+    "explanation": "Homozygous means possessing two of the same allele for a gene.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "topic": "Cell Biology",
+    "question": "What do all living cells have in common?",
+    "options": ["Cell wall", "Plasma membrane", "Chloroplasts", "Flagella"],
+    "answerIndex": 1,
+    "explanation": "All cells are enclosed by a plasma membrane.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 43,
+    "topic": "Ecology",
+    "question": "What is sustainable development?",
+    "options": ["Using resources as fast as possible", "Using resources without depleting them", "Ignoring ecological impact", "Focusing only on animals"],
+    "answerIndex": 1,
+    "explanation": "Sustainability involves meeting present needs without compromising the future.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 44,
+    "topic": "Nutrition in animals",
+    "question": "What is the role of bile in digestion?",
+    "options": ["Digest proteins", "Emulsify fats", "Absorb vitamins", "Digest carbohydrates"],
+    "answerIndex": 1,
+    "explanation": "Bile emulsifies large fat droplets into smaller ones for better digestion.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 45,
+    "topic": "Ecology",
+    "question": "What is a biome?",
+    "options": ["A small pond", "A large-scale ecosystem with specific climate", "A type of bacterium", "A single species population"],
+    "answerIndex": 1,
+    "explanation": "A biome is a large geographic area with distinct climate and life.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "topic": "Cell structure",
+    "question": "Which organelle is often called the 'post office' of the cell?",
+    "options": ["Mitochondrion", "Golgi apparatus", "Ribosome", "Nucleus"],
+    "answerIndex": 1,
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 47,
+    "topic": "Ecology",
+    "question": "What is a predator?",
+    "options": ["An organism that produces its own food", "An organism that hunts and kills other animals", "An organism that breaks down dead matter", "An organism that eats plants only"],
+    "answerIndex": 1,
+    "explanation": "Predators are animals that kill and eat prey.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "topic": "Genetics",
+    "question": "What is an allele?",
+    "options": ["A type of cell", "A version of a gene", "A protein structure", "A DNA base"],
+    "answerIndex": 1,
+    "explanation": "An allele is one of two or more forms of a gene.",
+    "difficulty": "Logical"
+  },
+  {
+    "id": 49,
+    "topic": "Ecology",
+    "question": "Which of these is a greenhouse gas?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "answerIndex": 1,
+    "explanation": "Carbon dioxide traps heat, contributing to the greenhouse effect.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "topic": "Cell structure",
+    "question": "Which component is found in animal cells but not plant cells?",
+    "options": ["Plasma membrane", "Nucleus", "Centrioles", "Mitochondria"],
+    "answerIndex": 2,
+    "explanation": "Centrioles are typically found in animal cells but not in most plant cells.",
+    "difficulty": "Tactical"
+  }
+]

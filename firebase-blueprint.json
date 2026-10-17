@@ -1,0 +1,55 @@
+{
+  "entities": {
+    "Score": {
+      "title": "Score",
+      "description": "User test score",
+      "type": "object",
+      "properties": {
+        "userName": { "type": "string" },
+        "score": { "type": "number" },
+        "date": { "type": "string", "format": "date-time" },
+        "timeToFinish": { "type": "number" }
+      },
+      "required": ["userName", "score", "date", "timeToFinish"]
+    },
+    "User": {
+      "title": "User",
+      "description": "Registered User",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "registrationDate": { "type": "string", "format": "date-time" },
+        "isAdmin": { "type": "boolean" }
+      },
+      "required": ["name", "email", "registrationDate"]
+    },
+    "TestResult": {
+      "title": "TestResult",
+      "description": "User test result",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "userName": { "type": "string" },
+        "score": { "type": "number" },
+        "date": { "type": "string", "format": "date-time" },
+        "timeToFinish": { "type": "number" }
+      },
+      "required": ["userId", "userName", "score", "date", "timeToFinish"]
+    }
+  },
+  "firestore": {
+    "/scores": {
+      "schema": "Score",
+      "description": "Collection of user test scores"
+    },
+    "/users": {
+      "schema": "User",
+      "description": "Collection of registered users"
+    },
+    "/test_results": {
+      "schema": "TestResult",
+      "description": "Collection of individual test results"
+    }
+  }
+}

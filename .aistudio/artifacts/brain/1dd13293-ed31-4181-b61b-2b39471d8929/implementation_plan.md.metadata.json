@@ -1,0 +1,6 @@
+{
+  "summary": "Fix leaderboard name display, add score and time, and correct Firestore collection.",
+  "updatedAt": "2026-10-17T16:22:55.842457171Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
